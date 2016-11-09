@@ -3,7 +3,7 @@
     "env": {
        "browser": true,
        "node": true,
-       "esversion": 6
+       "es6": true
     },
     "rules": {
         "no-loop-func": 2,

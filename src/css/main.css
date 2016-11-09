@@ -7,3 +7,50 @@
 	content: '';
 	display: table;
 }
+
+body {
+	background-image: url(http://wallpapercave.com/wp/xX2GRj6.gif);
+}
+
+h1 {
+	color: white;
+	font-family: 'Orbitron', sans-serif;
+	padding-left: 10px;
+}
+
+button {
+	background-color: #666666;
+	border: 1px white solid;
+	border-radius: 5px;
+	left: 30px;
+	position: relative;
+}
+
+li {
+	background-color: #666666;
+	background-color: rgba(102, 102, 102, 0.7);
+	border: 2px blue solid;
+	border-radius: 5px;
+	list-style-type: none;
+	margin: 10px;
+	width: 100%;
+}
+
+ul {
+	margin: 0 auto;
+	padding-left: 0;
+	width: 390px;
+}
+
+#details {
+	background-color: #666666;
+	background-color: rgba(102, 102, 102, 0.7);
+	border: 2px blue solid;
+	border-radius: 5px;
+	width: 350px;
+}
+
+#details li {
+	border: none;
+	width: 330px;
+}
